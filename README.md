@@ -1,93 +1,91 @@
+<div align="center">
+
 # 👋 Hello, I'm Hassan Kraira
 
-💻 **Full-Stack Developer | Angular Specialist**  
-🎓 Software Engineering Student  
-🌍 Palestinian Developer passionate about building impactful web applications
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Angular+Specialist;Software+Engineering+Student;Building+Modern+Web+Applications" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I am a **Full-Stack Web Developer** focused on creating modern, scalable, and user-friendly applications.  
-My main expertise is in **Angular**, and I enjoy building complete systems that connect **frontend interfaces with powerful backend services**.
+💻 **Full-Stack Developer specializing in Angular**  
+🎓 Software Engineering Student  
+🌍 Palestinian Developer passionate about technology  
 
-I love solving real problems through code and continuously improving my skills in **software architecture, performance, and clean design**.
+I enjoy building **scalable web applications**, connecting powerful backends with modern frontend interfaces.  
+My focus is writing **clean, maintainable code** and continuously improving my engineering skills.
 
-✨ My mission is simple:  
-> Build meaningful software and grow into a world-class engineer.
+> “Great software is built with passion, curiosity, and persistence.”
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
-- Angular
-- TypeScript
-- HTML5
-- CSS3
-- Bootstrap
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Databases
-- Oracle SQL
-- MySQL
-- Firebase Firestore
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Tools & Platforms
-- Git & GitHub
-- Firebase
-- Swagger API Documentation
-- Linux / Ubuntu
-- AWS EC2
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
 ### 🔹 BookMe
-A modern **booking platform** built using Angular with a Node.js backend and Oracle database.  
-Includes real-time updates using Firebase Firestore.
+A modern **booking platform** built with Angular, Node.js, and Oracle Database with real-time updates using Firebase.
 
 ### 🔹 Phoenix Center
-A full educational management system including:
+Educational management system including:
 - student management
 - attendance tracking
-- teacher dashboards
+- teacher dashboard
 - reporting system
 
 ### 🔹 Hassan Courses
-A lightweight educational website built with **pure HTML & CSS** focusing on performance and simplicity.
+Lightweight educational platform built using **HTML & CSS**.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassan-kraira&show_icons=true&theme=tokyonight)
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassankraira&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hassan-kraira&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=hassankraira&theme=tokyonight)
 
----
-
-## 🌐 Connect With Me
-
-📸 Instagram  
-https://instagram.com/hassan.krira.1
-
-💻 GitHub  
-https://github.com/hassan-kraira
-
-📱 Telegram  
-https://t.me/hassan_kraira2003
-
-💼 LinkedIn  
-https://linkedin.com/in/hassan-kraira-5666491a8
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassankraira&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ If you like my work, feel free to explore my repositories and give them a star!
+# 🌐 Connect With Me
 
-> “Code is not just about solving problems — it's about creating possibilities.”
+[![Instagram](https://img.shields.io/badge/Instagram-hassan_kraira2003-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hassan_kraira2003/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-hassan.krira.1-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hassan.krira.1)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Kraira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan-kraira-5666491a8)
+
+[![GitHub](https://img.shields.io/badge/GitHub-hassankraira-181717?style=for-the-badge&logo=github)](https://github.com/hassankraira)
+
+---
+
+<div align="center">
+
+⭐ **If you like my work, consider giving a star to my repositories!**
+
+</div>
