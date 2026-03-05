@@ -60,16 +60,7 @@ Educational management system including:
 ### 🔹 Hassan Courses
 Lightweight educational platform built using **HTML & CSS**.
 
----
 
-# 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hassankraira&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 # 🌐 Connect With Me
 
