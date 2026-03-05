@@ -64,11 +64,17 @@ Lightweight educational platform built using **HTML & CSS**.
 
 # 📊 GitHub Stats
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassankraira&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassankraira&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hassankraira&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hassankraira&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassankraira&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassankraira&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
